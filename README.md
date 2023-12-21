@@ -1,6 +1,6 @@
 # Text Analyzer
 
-A JavaScript program for analyzing text and providing information about word count, character count, sentence count, and more.
+A JavaScript program for analyzing text and providing detailed information.
 
 ## Features
 
@@ -10,6 +10,8 @@ A JavaScript program for analyzing text and providing information about word cou
 - Count the number of unique words in the text.
 - Calculate the average word length in the text.
 - Count the number of characters without spaces in the text.
+- Identify the most frequent words in the text.
+- Identify the most frequent letters in the text.
 - Check if the text is empty.
 
 ## How to Use
